@@ -3,6 +3,7 @@ alias ll='ls -la'
 alias mfs='php artisan migrate:fresh --seed'
 alias sap='initial_dir=$(pwd) && cd ~/dev/spotify-autopush && poetry run spotify_autopush && cd "$initial_dir"'
 alias cl='clear'
+alias cr='cargo run'
 
 
 # functions
