@@ -5,6 +5,7 @@ alias sap='initial_dir=$(pwd) && cd ~/dev/spotify-autopush && poetry run spotify
 alias cl='clear'
 alias cr='cargo run'
 alias nrd='npm run dev'
+alias prd='pnpm run dev'
 alias gs='git status'
 
 # functions
